@@ -29,7 +29,7 @@ protected void RadGantt1_AssignmentDelete(object sender, Telerik.Web.UI.Gantt.As
 {
     foreach (var item in e.Assignments)
     {
-        //...
+        // This is going to do something
     }
 }
 ````
