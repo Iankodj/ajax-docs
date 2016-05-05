@@ -12,6 +12,8 @@ position: 7
 
 Some content
 
+My additional content.
+
 ## See Also
 
 * [other](url)
